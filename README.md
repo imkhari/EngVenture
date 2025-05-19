@@ -23,9 +23,6 @@ Engventure là một ứng dụng Android học tiếng Anh được thiết k�
 
 🗣️ Sử dụng Text-to-Speech API cho phát âm tiếng Anh
 
-🚀 Mục tiêu
-Engventure hướng đến việc tạo ra một môi trường học từ vựng linh hoạt, cá nhân hóa và khơi gợi cảm hứng, giúp bạn học tiếng Anh không còn nhàm chán, mà trở thành một hành trình khám phá – đúng như tên gọi "Engventure" (English + Adventure).
-
 ![image](https://github.com/user-attachments/assets/badb8082-755c-4659-89b1-bd468db91cf7)
 
 * Giao diện đăng nhập
@@ -47,6 +44,15 @@ Engventure hướng đến việc tạo ra một môi trường học từ vựn
 * Giao diện của quizz
 
   ![image](https://github.com/user-attachments/assets/b3e32e09-9a4a-4772-8ca9-612f2e4c54de)
+
+* Giao diện kết quả sau khi làm quizz
+
+  ![image](https://github.com/user-attachments/assets/39920011-cc51-4e46-a8af-71cb9a5ebdd0)
+
+🚀 Mục tiêu
+Engventure hướng đến việc tạo ra một môi trường học từ vựng linh hoạt, cá nhân hóa và khơi gợi cảm hứng, giúp bạn học tiếng Anh không còn nhàm chán, mà trở thành một hành trình khám phá – đúng như tên gọi "Engventure" (English + Adventure).
+
+
 
 
 
